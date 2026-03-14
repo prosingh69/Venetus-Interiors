@@ -1,16 +1,35 @@
-# React + Vite
+# Venetus Interiors - Lead Generation Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-converting lead-generation website designed and developed for Venetus Interiors to establish a premium digital presence in the interior design market.
 
-Currently, two official plugins are available:
+## 🚀 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Responsive Navigation:** A seamless and intuitive navigation bar, completely optimized for both desktop and mobile viewing.
+* **Engaging Hero Section:** A visually compelling first impression tailored specifically to interior design aesthetics.
+* **Targeted Lead Capture:** A strategically researched inquiry form integrated with EmailJS to instantly capture client leads without needing a backend server.
+* **Optimized UI/UX:** Engineered for high performance, zero lag, and 100% cross-browser compatibility.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Frontend Library:** React.js
+* **Language:** JavaScript (ES6+)
+* **Styling:** CSS3 / Tailwind CSS *(Update this if you are using specific libraries like GSAP or styled-components)*
+* **Third-Party Integration:** EmailJS (Form submission handling)
 
-## Expanding the ESLint configuration
+## 📈 Current Development Status
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [x] Market Research & Competitor Analysis
+- [x] Project Setup & Digital Architecture
+- [x] Code Primary Navbar
+- [x] Code Responsive Navbar for Mobile
+- [x] Code Hero Section
+- [x] Research & Structure Content for Inquiry Form
+- [ ] Integrate EmailJS with Form *(Upcoming)*
+
+## 📦 Installation & Local Setup
+
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/venetus-interiors.git](https://github.com/your-username/venetus-interiors.git)
