@@ -4,9 +4,9 @@ import Button from '../Button/Button';
 const LeadForm = () => {
     return (
 
-        <div className="w-full max-w-md p-6 mt-10 rounded-2xl bg-black/40 backdrop-blur-md border border-[#394951]/60 shadow-2xl">
+        <div className="w-full lg:max-w-md p-6 lg:mt-10 lg:mb-6 mt-5 rounded-2xl bg-black/40 backdrop-blur-md border border-[#394951]/60 shadow-2xl">
 
-            <h3 className="text-2xl font-bold text-white mb-2">
+            <h3 className="text-2xl font-bold text-white mb-2 text-nowrap">
                 Book Your Free Site Visit
             </h3>
             <p className="text-gray-300 text-sm mb-6">

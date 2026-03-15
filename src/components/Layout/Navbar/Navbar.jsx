@@ -19,7 +19,7 @@ const Navbar = () => {
 
             <header className='flex justify-between lg:grid lg:grid-cols-[0.5fr_1fr_1fr] items-center h-[3.7rem] rounded-full bg-[#161413] backdrop-blur-md px-4 lg:px-1 text-[#EBEBEB] z-40 relative border-2 border-[#394951]/70'>
 
-                <div className='flex items-center lg:text-[1.1rem] font-bold text-amber-50 text-nowrap'>
+                <div className='flex items-center lg:text-[1.1rem] text-xl font-bold text-amber-50 text-nowrap'>
                     <img src="null" alt="Logo" className="w-8 h-8 mr-2 lg:mr-0 lg:w-auto lg:h-auto" />
                     <h1 className='border-l-2 border-[#394951]/80 pl-3 ml-2'>
                         <span className="text-[#D4AA43]">Venetus</span> <span className="text-white">Interiors</span>
