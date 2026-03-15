@@ -45,11 +45,8 @@ To run this project locally on your machine, follow these steps:
 
 ## 📦 Installation & Local Setup
 
-To run this project locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/venetus-interiors.git](https://github.com/your-username/venetus-interiors.git)
+To run this project on your machine :
+ GO TO THIS WEBSITE :- https://venetus-interiors-git-main-prosingh69s-projects.vercel.app/
 
 
 
