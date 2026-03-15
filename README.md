@@ -46,7 +46,7 @@ To run this project locally on your machine, follow these steps:
 ## 📦 Installation & Local Setup
 
 To run this project on your machine :
- GO TO THIS WEBSITE :- https://venetus-interiors-git-main-prosingh69s-projects.vercel.app/
+ GO TO THIS WEBSITE :- https://venetus-interiors.vercel.app/
 
 
 
