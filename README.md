@@ -17,6 +17,7 @@ A modern, high-converting lead-generation website designed and developed for Ven
 * **Third-Party Integration:** EmailJS (Form submission handling)
 
 ## 📈 Current Development Status
+<<<<<<< HEAD
 
 - [x] Market Research & Competitor Analysis
 - [x] Project Setup & Digital Architecture
@@ -31,4 +32,24 @@ A modern, high-converting lead-generation website designed and developed for Ven
 To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
+
+=======
+
+- [x] Market Research & Competitor Analysis
+- [x] Project Setup & Digital Architecture
+- [x] Code Primary Navbar
+- [x] Code Responsive Navbar for Mobile
+- [x] Code Hero Section
+- [x] Research & Structure Content for Inquiry Form
+- [ ] Integrate EmailJS with Form *(Upcoming)*
+
+## 📦 Installation & Local Setup
+
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/venetus-interiors.git](https://github.com/your-username/venetus-interiors.git)
+
+
 
