@@ -31,5 +31,4 @@ A modern, high-converting lead-generation website designed and developed for Ven
 To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/venetus-interiors.git](https://github.com/your-username/venetus-interiors.git)
+
