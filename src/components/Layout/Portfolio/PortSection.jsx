@@ -6,7 +6,7 @@ import Dark from "../../../assets/Dark.jpg"
 import Yellow from "../../../assets/yellow.jpg"
 import premium from "../../../assets/premium.jpg"
 import pic2 from "../../../assets/pic2.jpg"
-const PortfolioSection = () => {
+const PortSection = () => {
   return (
     <section className='text-white'>
     <Portfoliopill/>
@@ -18,4 +18,4 @@ const PortfolioSection = () => {
   )
 }
 
-export default PortfolioSection
+export default PortSection

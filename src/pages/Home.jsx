@@ -5,6 +5,7 @@ import TrustStats from '../components/TrustBelt/TrustStats'
 import PortSection from '../components/Layout/Portfolio/PortSection'
 
 
+
 const Home = () => {
   return (
     <>
@@ -21,6 +22,7 @@ const Home = () => {
 
       <TrustStats/>
       <PortSection/>
+      
     </>
   )
 }
