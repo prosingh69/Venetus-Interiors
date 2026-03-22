@@ -2,7 +2,7 @@ import React from 'react'
 import dark from "../assets/darkTheme.jpg"
 import Hero from '../components/Hero/Hero'
 import TrustStats from '../components/TrustBelt/TrustStats'
-import PortfolioSection from '../components/Layout/Portfolio/portfolioSection'
+import PortfolioSection from '../components/Layout/Portfolio/PortfolioSection'
 
 
 const Home = () => {
