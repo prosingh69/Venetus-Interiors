@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const NavbarLink = ({ isMobile, closeMenu }) => {
 
-  const desktopClasses = 'flex justify-start gap-10 font-medium items-center ubuntu-medium text-nowrap text-[#EBEBEB]';
+  const desktopClasses = 'flex justify-start gap-9 text-[1.05rem] font-medium items-center ubuntu-medium text-nowrap text-[#EBEBEB]';
   const mobileClasses = 'flex flex-col w-full gap-10 text-xl font-medium ubuntu-medium text-[#EBEBEB] mt-10';
   
   const navItems = [

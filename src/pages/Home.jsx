@@ -1,7 +1,9 @@
 import React from 'react'
 import dark from "../assets/darkTheme.jpg"
 import Hero from '../components/Hero/Hero'
-import TrustBelt from '../components/TrustBelt/TrustBelt' 
+import TrustStats from '../components/TrustBelt/TrustStats'
+import PortfolioSection from '../components/Layout/Portfolio/portfolioSection'
+
 
 const Home = () => {
   return (
@@ -17,7 +19,8 @@ const Home = () => {
          </div>
       </div>
 
-      <TrustBelt />
+      <TrustStats/>
+      <PortfolioSection/>
     </>
   )
 }
