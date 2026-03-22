@@ -5,7 +5,7 @@ import PortfolioCard from '../../UI/Portfolio/PortfolioCard'
 import Dark from "../../../assets/Dark.jpg"
 import Yellow from "../../../assets/yellow.jpg"
 import premium from "../../../assets/premium.jpg"
-import pic2 from "../../../assets/pic2.jpg"
+import pic2 from "../../../assets/Picture2.jpg"
 const PortSection = () => {
   return (
     <section className='text-white'>
